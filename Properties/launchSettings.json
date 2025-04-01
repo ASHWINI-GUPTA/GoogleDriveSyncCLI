@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GoogleDriveSync": {
+      "commandName": "Project",
+      "commandLineArgs": "--folder \"G:\\Marriage\\Videos\" --drive-folder-id \"1ee\""
+    }
+  }
+}
